@@ -29,7 +29,7 @@
 
 ![GitHub Streak](https://streak-stats.vercel.app?user=mdziegiel&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&theme=tokyonight&langs_count=6&hide=html)
 
 ---
 
