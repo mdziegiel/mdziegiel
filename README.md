@@ -25,10 +25,11 @@
 
 ## 📊 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&theme=tokyonight)  
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.vercel.app?user=mdziegiel&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdziegiel&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&theme=tokyonight)
 
 ---
 
