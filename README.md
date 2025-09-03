@@ -34,6 +34,14 @@
 - 🔹 [**Homelab Dashboard**](https://github.com/mrdtech) – Centralized monitoring & management  
 - 🔹 [**PowerShell User Provisioning**](https://github.com/mrdtech) – Automating M365 + AD onboarding  
 - 🔹 [**Cloudflare + Zero Trust Setup**](https://github.com/mrdtech) – Secure remote access for self-hosted services  
+- 🔹 [**Pi.Alert**](https://github.com/mrdtech) – Device presence monitoring & alerts on my network  
+- 🔹 [**RustDesk Remote Access**](https://github.com/mrdtech) – Secure, self-hosted remote desktop alternative to TeamViewer  
+- 🔹 [**AdGuard + Unbound DNS**](https://github.com/mrdtech) – Network-wide DNS filtering and encrypted recursive DNS  
+- 🔹 [**Wazuh SIEM Deployment**](https://github.com/mrdtech) – Security monitoring & endpoint protection in the homelab  
+- 🔹 [**Proxmox Virtualization Lab**](https://github.com/mrdtech) – High-availability virtualization with PBS backups  
+- 🔹 [**Home Assistant Smart Home**](https://github.com/mrdtech) – Automating IoT devices with VLAN isolation & dashboards  
+- 🔹 [**Nginx Proxy + Cloudflare Tunnels**](https://github.com/mrdtech) – Reverse proxy with SSL offloading & secure remote access  
+
 
 ---
 
