@@ -1,7 +1,7 @@
 # Hi, I'm Michael Dziegiel 👋  
 
 💻 **Senior Network Administrator | Cloud, Security & Automation Enthusiast**  
-🌐 Based in **Lowell, Massachusetts** | 20+ years in IT | Passionate about **hybrid infrastructure, networking, and self-hosted projects**  
+🌐 Based in **Merrimack Valley, MA** | 20+ years in IT | Passionate about **hybrid infrastructure, networking, and self-hosted projects**  
 
 ---
 
