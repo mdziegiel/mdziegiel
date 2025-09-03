@@ -20,6 +20,7 @@
 - **Automation:** PowerShell | Graph API | GitHub/GitLab CI  
 - **Networking:** VLANs | VPN (WireGuard/Tailscale) | WAF/Reverse Proxy  
 - **Self-Hosted Apps:** Plex | AdGuard | Home Assistant | RustDesk | Pi.Alert  
+- **Security:** Wazuh | Cloudflare Zero Trust | IDS/IPS (via UniFi) | pfSense Firewall  
 
 ---
 
