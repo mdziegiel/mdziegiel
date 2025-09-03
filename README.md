@@ -40,9 +40,8 @@
 - 🔹 [**Wazuh SIEM Deployment**](https://github.com/mrdtech) – Security monitoring & endpoint protection in the homelab  
 - 🔹 [**Proxmox Virtualization Lab**](https://github.com/mrdtech) – High-availability virtualization with PBS backups  
 - 🔹 [**Home Assistant Smart Home**](https://github.com/mrdtech) – Automating IoT devices with VLAN isolation & dashboards  
-- 🔹 [**Nginx Proxy + Cloudflare Tunnels**](https://github.com/mrdtech) – Reverse proxy with SSL offloading & secure remote access  
-
-
+- 🔹 [**UniFi Network Segmentation**](https://github.com/mrdtech) – Multi-VLAN setup with firewall rules & DNS security
+ 
 ---
 
 ## 🌍 Connect with Me
