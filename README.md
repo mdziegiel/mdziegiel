@@ -15,10 +15,11 @@
 ---
 
 ## 🔧 Tech & Tools I Use
-- **Infrastructure:** Proxmox | VMware | QNAP NAS | pfSense | UniFi  
+- **Infrastructure:** Proxmox | VMware | Hyper-V | QNAP NAS | pfSense | UniFi
+- **Containers:** Docker | Docker Compose | Portainer 
 - **Cloud:** Azure | Microsoft 365 | Intune | Autopilot | Entra ID  
 - **Automation:** PowerShell | Graph API | GitHub/GitLab CI  
-- **Networking:** VLANs | VPN (WireGuard/Tailscale) | WAF/Reverse Proxy  
+- **Networking:** VLANs | VPN (WireGuard/Tailscale) | Nginx (Reverse Proxy/WAF) 
 - **Self-Hosted Apps:** Plex | AdGuard | Home Assistant | RustDesk | Pi.Alert  
 - **Security:** Wazuh | Cloudflare Zero Trust | IDS/IPS (via UniFi) | pfSense Firewall | T-Pot Honeypot
 
@@ -64,6 +65,7 @@
 - 🔹 [**Proxmox Virtualization Lab**](https://github.com/mrdtech) – High-availability virtualization with PBS backups  
 - 🔹 [**Home Assistant Smart Home**](https://github.com/mrdtech) – Automating IoT devices with VLAN isolation & dashboards  
 - 🔹 [**UniFi Network Segmentation**](https://github.com/mrdtech) – Multi-VLAN setup with firewall rules & DNS security
+- 🔹 [**Uptime Kuma Monitoring**](https://github.com/mrdtech) – Service uptime tracking with alerting across your homelab and external
  
 ---
 
