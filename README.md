@@ -20,7 +20,26 @@
 - **Automation:** PowerShell | Graph API | GitHub/GitLab CI  
 - **Networking:** VLANs | VPN (WireGuard/Tailscale) | WAF/Reverse Proxy  
 - **Self-Hosted Apps:** Plex | AdGuard | Home Assistant | RustDesk | Pi.Alert  
-- **Security:** Wazuh | Cloudflare Zero Trust | IDS/IPS (via UniFi) | pfSense Firewall | T-Pot Honeypot  
+- **Security:** Wazuh | Cloudflare Zero Trust | IDS/IPS (via UniFi) | pfSense Firewall | T-Pot Honeypot
+
+<p align="left">
+  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/></a>
+  <a href="https://nginx.org/" title="Nginx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/></a>
+  <a href="https://tailscale.com/" title="Tailscale"><img src="https://cdn.simpleicons.org/tailscale/ffffff" height="40" alt="Tailscale"/></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/></a>
+  <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/></a>
+  <a href="https://www.proxmox.com/" title="Proxmox"><img src="https://cdn.simpleicons.org/proxmox/EE712E" height="40" alt="Proxmox"/></a>
+  <a href="https://adguard.com/" title="AdGuard"><img src="https://cdn.simpleicons.org/adguard/66B574" height="40" alt="AdGuard"/></a>
+  <a href="https://www.microsoft.com/powershell" title="PowerShell"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell"/></a>
+  <a href="https://azure.microsoft.com/" title="Azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/></a>
+  <a href="https://ubuntu.com/" title="Ubuntu"><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu"/></a>
+  <a href="https://www.ui.com/" title="UniFi (Ubiquiti)"><img src="https://cdn.simpleicons.org/ubiquiti/0598D6" height="40" alt="Ubiquiti/UniFi"/></a>
+  <a href="https://wordpress.org/" title="WordPress"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress"/></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/></a>
+  <a href="https://www.portainer.io/" title="Portainer"><img src="https://cdn.simpleicons.org/portainer/13BEF9" height="40" alt="Portainer"/></a>
+  <a href="https://www.home-assistant.io/" title="Home Assistant"><img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40" alt="Home Assistant"/></a>
+</p>
 
 ---
 
