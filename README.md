@@ -72,7 +72,8 @@
 ## 🌍 Connect with Me
 🌐 [**Portfolio / Resume**](https://mrdtech.me)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/michaeldziegiel)  
-📧 michael.dziegiel@gmail.com  
+🌐 [**mrdtech.me**](https://mrdtech.me)  
+📧 techgeek@mrdtech.me  
 
 ---
 
