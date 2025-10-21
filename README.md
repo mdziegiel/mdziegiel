@@ -70,7 +70,7 @@
 ---
 
 ## 🌍 Connect with Me
-🌐 [**Portfolio / Resume**](https://mrdtech.me)  
+🌐 [**Portfolio / Resume**](https://portfolio.mrdtech.me/)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/michaeldziegiel)  
 🌐 [**mrdtech.me**](https://mrdtech.me)  
 📧 techgeek@mrdtech.me  
