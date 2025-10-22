@@ -47,7 +47,9 @@
 ## 📊 GitHub Stats
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&border=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F)
 
 ---
