@@ -43,15 +43,14 @@
 
 ---
 
-## 🛠️ Projects  
-### *(Linked directly to your portfolio)*
+## 🛠️ Projects
 
 - 🔹 **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
 - 🔹 **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
 - 🔹 **[AdGuard Home + Unbound DNS Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
 - 🔹 **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
 - 🔹 **[Home Assistant Automations](https://portfolio.mrdtech.me/projects/home-assistant.html)**  
-- 🔹 **[Uptime Kuma Monitoring](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
+- 🔹 **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
 - 🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
 - 🔹 **[Microsoft LAPS Deployment — Skyterra](https://portfolio.mrdtech.me/projects/laps-deployment.html)**  
 
@@ -59,18 +58,25 @@
 
 ## 📊 GitHub Stats
 
-> ⚠️ *If these images appear blank, GitHub's image API is rate-limited. It will automatically fix itself in ~30–60 minutes.*
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F" />
+  <img 
+    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=mdziegiel&show_icons=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F" 
+    height="160"
+/>
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&border=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" />
+  <img 
+    src="https://streak-stats-git-masterorg-streak-stats-team.vercel.app?user=mdziegiel&theme=tokyonight&border=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F"
+    height="160"
+/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F" />
+  <img
+    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F"
+    height="160"
+/>
 </p>
 
 ---
@@ -85,3 +91,4 @@
 ---
 
 ⭐ *Always building, improving, and securing IT environments — one project at a time.*  
+
