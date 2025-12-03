@@ -43,46 +43,59 @@
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Projects  
+### *Linked directly to your portfolio site*
 
-- **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
-  Identity-aware access for Immich, RustDesk, AdGuard, dashboards — no open ports.
+- 🔹 **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
+  Identity-aware access for Immich, RustDesk, AdGuard, Uptime Kuma — no open ports.
 
-- **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
-  Zone-based rules, IoT isolation, DNS control, and hardened routing.
+- 🔹 **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
+  Secure self-hosted ID + Relay stack with Cloudflare and firewall controls.
 
-- **[RustDesk Self-Hosting](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
-  Self-hosted remote desktop (ID + Relay) with Cloudflare, DNS, pfSense.
+- 🔹 **[AdGuard Home + Unbound DNS Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
+  Encrypted DNS, recursive resolving, DNSSEC, and split-DNS for internal services.
 
-- **[Home Assistant Automations](https://portfolio.mrdtech.me/projects/home-assistant.html)**  
-  IoT VLAN isolation, dashboards, automations, secure access.
+- 🔹 **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
+  IoT/Guest isolation, east-west blocking, DNS enforcement, and egress policies.
 
-- **[Uptime Kuma Monitoring](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
-  Monitoring stack with alerting, SSL checks, Zero Trust protection.
+- 🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
+  NFS datastore, PBS retention design, cluster scheduling, restore workflow.
 
-- **[AdGuard Home + Unbound DNS Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
-  DNS filtering with recursive resolution, DNSSEC, and DoT.
+- 🔹 **[Home Assistant Automations](https://portfolio.mrdtech.me/projects/home-assistant.html)**  
+  IoT VLAN design, dashboards, automations, and secure architecture.
 
-- **[Proxmox — NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
-  Proxmox cluster, NFS storage, GPU passthrough, PBS retention.
+- 🔹 **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
+  Monitoring, alerting, SSL checks, and Zero Trust protection.
 
-- **[Microsoft LAPS Deployment — Skyterra](https://portfolio.mrdtech.me/projects/laps-deployment.html)**  
+- 🔹 **[Microsoft LAPS Deployment (Case Study)](https://portfolio.mrdtech.me/projects/laps-deployment.html)**  
   Tenant-wide LAPS rollout with secure credential rotation.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" 
+    alt="GitHub Stats" 
+    height="170"
+  />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&hide_border=true&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" 
+    alt="GitHub Streak" 
+    height="170"
+  />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" 
+    alt="Top Languages" 
+    height="170"
+  />
 </p>
 
 ---
@@ -97,4 +110,3 @@
 ---
 
 ⭐ *Always building, improving, and securing IT environments — one project at a time.*  
-
