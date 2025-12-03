@@ -43,35 +43,32 @@
 
 ---
 
-## 🛠️ Featured Projects  
-### *(Directly linked to your polished new portfolio pages)*
+## 🛠️ Projects  
+### *(Directly linked to the same 8 projects shown on your portfolio)*
 
-- 🔹 **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
-  Identity-aware access for Immich, RustDesk, AdGuard, Uptime Kuma — no open ports.
+- **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
+  Identity-aware access for Immich, RustDesk, dashboards — without open ports.
 
-- 🔹 **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
-  Secure self-hosted ID + Relay stack with Cloudflare and firewall controls.
+- **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
+  Zone-based rules, IoT isolation, DNS control, and hardened routing.
 
-- 🔹 **[AdGuard Home + Unbound DNS Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
-  Encrypted DNS, recursive resolving, DNSSEC, and split-DNS for internal services.
+- **[RustDesk Self-Hosting](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
+  Self-hosted remote desktop (ID + Relay) with Cloudflare, DNS, pfSense.
 
-- 🔹 **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
-  IoT/Guest isolation, east-west blocking, DNS enforcement, and egress policies.
+- **[Home Assistant Automations](https://portfolio.mrdtech.me/projects/home-assistant.html)**  
+  IoT VLAN isolation, dashboards, automations, secure access.
 
-- 🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
-  NFS datastore, PBS retention design, cluster scheduling, restore workflow.
+- **[Uptime Kuma Monitoring](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
+  Monitoring stack with alerting, SSL checks, Zero Trust protection.
 
----
+- **[AdGuard Home + Unbound Recursive DNS](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
+  DNS filtering with recursive resolution, DNSSEC, and DoT.
 
-### 📌 Additional Repositories (GitHub Only)
-Want any of these converted into full portfolio pages? Just say the word.
+- **[Proxmox — NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
+  Proxmox cluster, NFS storage, GPU passthrough, PBS retention.
 
-- Homelab Dashboard  
-- PowerShell User Provisioning  
-- Pi.Alert Monitoring  
-- Wazuh SIEM Deployment  
-- Home Assistant Automation Packs  
-- Uptime Kuma Monitoring  
+- **[Microsoft LAPS Deployment — Skyterra](https://portfolio.mrdtech.me/projects/laps-deployment.html)**  
+  Tenant-wide LAPS rollout with secure credential rotation.
 
 ---
 
@@ -101,4 +98,5 @@ Want any of these converted into full portfolio pages? Just say the word.
 ---
 
 ⭐ *Always building, improving, and securing IT environments — one project at a time.*  
+
 
