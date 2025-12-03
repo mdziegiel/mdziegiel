@@ -1,22 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdziegiel/mdrt-assets/main/mrdtech-logo.png" height="120" alt="MRDTech Logo"/>
-</p>
-
 <h1 align="center" style="font-size: 2.4rem;">
   Hi, I'm Michael Dziegiel 
-  <span class="wave">👋</span>
+  👋
 </h1>
-
-<style>
-.wave {
-  display:inline-block;
-  transition: transform 0.2s ease-in-out;
-}
-.wave:hover {
-  transform: rotate(20deg) scale(1.25);
-}
-</style>
-
 
 💻 **Senior Network Administrator | Cloud, Security & Automation**  
 🌐 Merrimack Valley, MA • 20+ years in IT • Homelab + Hybrid Infrastructure Engineer  
