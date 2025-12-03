@@ -6,7 +6,7 @@
 💻 **Senior Network Administrator | Cloud, Security & Automation**  
 🌐 Merrimack Valley, MA • 20+ years in IT • Homelab + Hybrid Infrastructure Engineer  
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 👨‍💻 About Me
 - Managing and securing **hybrid infrastructure** (on-prem AD + Entra ID + Intune)  
@@ -15,7 +15,7 @@
 - Automating everything with **PowerShell, Graph API, GitHub Actions**  
 - Always experimenting with **Zero Trust, monitoring, and self-hosted platforms**  
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 🧰 Tech & Tools I Use
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40"/>
 </p>
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📁 Projects
 
@@ -62,7 +62,7 @@
 
 </details>
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 🔧 Skills & Tools  
 
@@ -80,7 +80,7 @@ Sophos · Proofpoint · ConnectWise · Veeam · PowerShell · Docker · Git
 
 </details>
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📊 GitHub Stats
 
@@ -88,7 +88,7 @@ Sophos · Proofpoint · ConnectWise · Veeam · PowerShell · Docker · Git
   <img src="https://github-stats-alpha.vercel.app/api?username=mdziegiel&cc=00000000&tc=00FF7F&ic=00FF7F" />
 </p>
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 🌍 Connect with Me
 
@@ -97,7 +97,8 @@ Sophos · Proofpoint · ConnectWise · Veeam · PowerShell · Docker · Git
 - 🖥️ **Website:** https://mrdtech.me  
 - 📧 **Email:** techgeek@mrdtech.me  
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-⭐ *Always building, improving, and securing IT environments — one project at a time.*  
+⭐ *Always building, improving, and securing IT environments — one project at a time.*
+ 
 
