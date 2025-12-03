@@ -43,11 +43,10 @@
 
 ---
 
-## 🛠️ Projects  
-### *(Directly linked to the same 8 projects shown on your portfolio)*
+## 🛠️ Projects
 
 - **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
-  Identity-aware access for Immich, RustDesk, dashboards — without open ports.
+  Identity-aware access for Immich, RustDesk, AdGuard, dashboards — no open ports.
 
 - **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
   Zone-based rules, IoT isolation, DNS control, and hardened routing.
@@ -61,7 +60,7 @@
 - **[Uptime Kuma Monitoring](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
   Monitoring stack with alerting, SSL checks, Zero Trust protection.
 
-- **[AdGuard Home + Unbound Recursive DNS](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
+- **[AdGuard Home + Unbound DNS Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
   DNS filtering with recursive resolution, DNSSEC, and DoT.
 
 - **[Proxmox — NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
@@ -75,15 +74,15 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&border=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F"/>
+  <img src="https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -98,5 +97,4 @@
 ---
 
 ⭐ *Always building, improving, and securing IT environments — one project at a time.*  
-
 
