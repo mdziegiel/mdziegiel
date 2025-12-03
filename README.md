@@ -44,58 +44,33 @@
 ---
 
 ## 🛠️ Projects  
-### *Linked directly to your portfolio site*
+### *(Linked directly to your portfolio)*
 
 - 🔹 **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
-  Identity-aware access for Immich, RustDesk, AdGuard, Uptime Kuma — no open ports.
-
 - 🔹 **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
-  Secure self-hosted ID + Relay stack with Cloudflare and firewall controls.
-
 - 🔹 **[AdGuard Home + Unbound DNS Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
-  Encrypted DNS, recursive resolving, DNSSEC, and split-DNS for internal services.
-
 - 🔹 **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
-  IoT/Guest isolation, east-west blocking, DNS enforcement, and egress policies.
-
-- 🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
-  NFS datastore, PBS retention design, cluster scheduling, restore workflow.
-
 - 🔹 **[Home Assistant Automations](https://portfolio.mrdtech.me/projects/home-assistant.html)**  
-  IoT VLAN design, dashboards, automations, and secure architecture.
-
-- 🔹 **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
-  Monitoring, alerting, SSL checks, and Zero Trust protection.
-
-- 🔹 **[Microsoft LAPS Deployment (Case Study)](https://portfolio.mrdtech.me/projects/laps-deployment.html)**  
-  Tenant-wide LAPS rollout with secure credential rotation.
+- 🔹 **[Uptime Kuma Monitoring](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
+- 🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
+- 🔹 **[Microsoft LAPS Deployment — Skyterra](https://portfolio.mrdtech.me/projects/laps-deployment.html)**  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" 
-    alt="GitHub Stats" 
-    height="170"
-  />
+> ⚠️ *If these images appear blank, GitHub's image API is rate-limited. It will automatically fix itself in ~30–60 minutes.*
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdziegiel&show_icons=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F" />
 </p>
 
-<p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&hide_border=true&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" 
-    alt="GitHub Streak" 
-    height="170"
-  />
+<p>
+  <img src="https://streak-stats.demolab.com?user=mdziegiel&theme=tokyonight&border=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" />
 </p>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" 
-    alt="Top Languages" 
-    height="170"
-  />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdziegiel&layout=compact&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&border_color=00FF7F" />
 </p>
 
 ---
