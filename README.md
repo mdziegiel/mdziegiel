@@ -49,16 +49,21 @@
 ## 📁 Projects
 
 <details>
-<summary><strong>Click to expand</strong></summary><br>
+<summary><strong>Click to expand</strong></summary>
 
-- 🔹 **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
-- 🔹 **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
-- 🔹 **[AdGuard Home + Unbound Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
-- 🔹 **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
-- 🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
-- 🔹 **[Home Assistant Automations](https://portfolio.mrdtech.me/projects/home-assistant.html)**  
-- 🔹 **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
-- 🔹 **[Microsoft LAPS Deployment (Case Study)](https://portfolio.mrdtech.me/projects/laps-deployment.html)**  
+<br>
+
+🔹 **[Cloudflare Zero-Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**
+
+🔹 **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**
+
+🔹 **[AdGuard Home + Unbound Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**
+
+🔹 **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**
+
+🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**
+
+🔹 **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**
 
 </details>
 
