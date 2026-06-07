@@ -67,6 +67,9 @@
 
 ### 🏠 Homelab & Infrastructure
 
+⭐ **[mrdtech-homelab — Monitoring & Automation Stack](https://github.com/mdziegiel/mrdtech-homelab)**  
+A zero-dependency NOC dashboard, Wazuh SIEM hardening, and 18 scheduled monitors (Proxmox · CrowdSec · AdGuard · UniFi · Tailscale) — all stdlib Python, alerting to Telegram + Gotify
+
 🔹 **[Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
 Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies
 
