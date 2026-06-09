@@ -86,7 +86,7 @@ Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backb
 Self-hosted monitoring and alerting for all homelab services and endpoints
 
 🔹 **[homelab-noc-automation](https://github.com/mdziegiel/homelab-noc-automation)**  
-Homelab NOC & Automation Stack — AI-powered monitoring, Wazuh SIEM hardening, and 18 scheduled monitors for a Proxmox homelab. Powered by Hermes.
+Homelab NOC & Automation Stack — AI-powered monitoring, Wazuh SIEM hardening, and 18 scheduled monitors for a Proxmox Homelab. Powered by Hermes.
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
