@@ -68,7 +68,7 @@
 ### 🏠 Homelab & Infrastructure
 
 ◆ **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)**
-Open-source NOC dashboard for homelabs and enterprise — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
+Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
 
 🔹 **[Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
 Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies
