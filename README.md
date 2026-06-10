@@ -68,7 +68,7 @@
 ### 🏠 Homelab & Infrastructure
 
 ◆ **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)**
-Open-source NOC dashboard for homelabs and enterprise — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user admin/viewer roles, account lockout, login audit log, session management, optional TOTP 2FA, password-expiry policy, API tokens, and a dark terminal aesthetic. Docker-ready.
+Open-source NOC dashboard for homelabs and enterprise — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
 
 🔹 **[Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
 Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies
@@ -87,9 +87,6 @@ Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backb
 
 🔹 **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
 Self-hosted monitoring and alerting for all homelab services and endpoints
-
-🔹 **[Homelab-NOC-Automation](https://github.com/mdziegiel/homelab-noc-automation)**  
-Homelab NOC & Automation Stack — AI-powered monitoring, Wazuh SIEM hardening, and 18 scheduled monitors for a Proxmox Homelab. Powered by Hermes.
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
