@@ -74,7 +74,7 @@
 ### 🔹 [NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)
 Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
 
-`FastAPI` `React` `SQLite`
+<img src="https://img.shields.io/badge/FastAPI-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/React-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 <td width="50%">
@@ -82,7 +82,7 @@ Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+
 ### 🔹 [wikidocs](https://github.com/mdziegiel/wikidocs)
 Personal infrastructure wiki with automated nightly GitHub sync — living documentation for a 20+ host homelab.
 
-`Markdown` `GitHub Actions`
+<img src="https://img.shields.io/badge/Markdown-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub%20Actions-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ Personal infrastructure wiki with automated nightly GitHub sync — living docum
 ### 🔹 [Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)
 Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies.
 
-`Cloudflare` `Zero Trust` `Tunnels`
+<img src="https://img.shields.io/badge/Cloudflare-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Zero%20Trust-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Tunnels-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 <td width="50%">
@@ -100,7 +100,7 @@ Securing self-hosted services without open ports using Cloudflare Tunnels and Ac
 ### 🔹 [RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)
 Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Docker.
 
-`RustDesk` `Docker` `Remote Access`
+<img src="https://img.shields.io/badge/RustDesk-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Remote%20Access-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Do
 ### 🔹 [AdGuard Home + Unbound Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)
 Network-wide DNS filtering and recursive resolver stack with VLAN-aware configuration.
 
-`AdGuard` `Unbound` `DNS`
+<img src="https://img.shields.io/badge/AdGuard-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Unbound-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/DNS-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 <td width="50%">
@@ -118,7 +118,7 @@ Network-wide DNS filtering and recursive resolver stack with VLAN-aware configur
 ### 🔹 [UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)
 Full network segmentation across IoT, trusted, guest, and management VLANs.
 
-`UniFi` `VLANs` `Firewall`
+<img src="https://img.shields.io/badge/UniFi-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/VLANs-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Firewall-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ Full network segmentation across IoT, trusted, guest, and management VLANs.
 ### 🔹 [Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)
 Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backblaze B2.
 
-`Proxmox` `PBS` `NFS`
+<img src="https://img.shields.io/badge/Proxmox-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/PBS-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/NFS-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 <td width="50%">
@@ -136,7 +136,7 @@ Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backb
 ### 🔹 [Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)
 Self-hosted monitoring and alerting for all homelab services and endpoints.
 
-`Uptime Kuma` `Monitoring` `Alerting`
+<img src="https://img.shields.io/badge/Uptime%20Kuma-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Monitoring-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Alerting-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 </tr>
