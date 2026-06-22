@@ -32,14 +32,6 @@
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 🚀 Featured Projects
-
-| | |
-|---|---|
-| **[noc-dashboard](https://github.com/mdziegiel/noc-dashboard)**<br>Self-hosted NOC dashboard with multi-user auth, TOTP 2FA, and live infrastructure monitoring across Proxmox, Docker, and network devices.<br>`FastAPI` `React` `SQLite` | **[wikidocs](https://github.com/mdziegiel/wikidocs)**<br>Personal infrastructure wiki with automated nightly GitHub sync — living documentation for a 20+ host homelab.<br>`Markdown` `GitHub Actions` |
-
-<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
-
 ## 🧰 Tech & Tools I Use
 
 **Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · OPNsense · Proxmox Backup Server · Veeam · Backblaze B2  
@@ -75,7 +67,7 @@
 
 ### 🏠 Homelab & Infrastructure
 
-🔹 **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)**
+◆ **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)**
 Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
 
 🔹 **[Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
