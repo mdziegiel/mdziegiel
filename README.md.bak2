@@ -32,6 +32,14 @@
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
+## 🚀 Featured Projects
+
+| | |
+|---|---|
+| **[noc-dashboard](https://github.com/mdziegiel/noc-dashboard)**<br>Self-hosted NOC dashboard with multi-user auth, TOTP 2FA, and live infrastructure monitoring across Proxmox, Docker, and network devices.<br>`FastAPI` `React` `SQLite` | **[wikidocs](https://github.com/mdziegiel/wikidocs)**<br>Personal infrastructure wiki with automated nightly GitHub sync — living documentation for a 20+ host homelab.<br>`Markdown` `GitHub Actions` |
+
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
+
 ## 🧰 Tech & Tools I Use
 
 **Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · OPNsense · Proxmox Backup Server · Veeam · Backblaze B2  
@@ -63,84 +71,30 @@
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 📂 Projects
+## 📁 Projects
 
 ### 🏠 Homelab & Infrastructure
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 [NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)
+🔹 **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)**
 Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
 
-`FastAPI` `React` `SQLite`
+🔹 **[Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)**  
+Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies
 
-</td>
-<td width="50%">
+🔹 **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)**  
+Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Docker
 
-### 🔹 [wikidocs](https://github.com/mdziegiel/wikidocs)
-Personal infrastructure wiki with automated nightly GitHub sync — living documentation for a 20+ host homelab.
+🔹 **[AdGuard Home + Unbound Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)**  
+Network-wide DNS filtering and recursive resolver stack with VLAN-aware configuration
 
-`Markdown` `GitHub Actions`
+🔹 **[UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)**  
+Full network segmentation across IoT, trusted, guest, and management VLANs
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+🔹 **[Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)**  
+Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backblaze B2
 
-### 🔹 [Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)
-Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies.
-
-`Cloudflare` `Zero Trust` `Tunnels`
-
-</td>
-<td width="50%">
-
-### 🔹 [RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)
-Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Docker.
-
-`RustDesk` `Docker` `Remote Access`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔹 [AdGuard Home + Unbound Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)
-Network-wide DNS filtering and recursive resolver stack with VLAN-aware configuration.
-
-`AdGuard` `Unbound` `DNS`
-
-</td>
-<td width="50%">
-
-### 🔹 [UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)
-Full network segmentation across IoT, trusted, guest, and management VLANs.
-
-`UniFi` `VLANs` `Firewall`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔹 [Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)
-Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backblaze B2.
-
-`Proxmox` `PBS` `NFS`
-
-</td>
-<td width="50%">
-
-### 🔹 [Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)
-Self-hosted monitoring and alerting for all homelab services and endpoints.
-
-`Uptime Kuma` `Monitoring` `Alerting`
-
-</td>
-</tr>
-</table>
+🔹 **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)**  
+Self-hosted monitoring and alerting for all homelab services and endpoints
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
