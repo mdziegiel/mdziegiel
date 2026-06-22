@@ -65,9 +65,19 @@
 
 ## 📂 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=noc-dashboard&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/noc-dashboard) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=adguard-unbound-stack&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/adguard-unbound-stack)
+### 🏠 Homelab & Infrastructure
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=asset-overview&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/asset-overview) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=job-watch&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/job-watch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=noc-dashboard&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/noc-dashboard) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=zero-trust-homelab&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/zero-trust-homelab)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=adguard-unbound-stack&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/adguard-unbound-stack) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=homelab-architecture&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/homelab-architecture)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=backup-recovery-homelab&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/backup-recovery-homelab) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=cloudflare-ddns&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/cloudflare-ddns)
+
+### 📝 Guides & Configs
+
+- **wikidocs** — Personal infrastructure wiki with automated nightly GitHub sync (private repo)
+- **[RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)** — Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Docker.
+- **[Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)** — Self-hosted monitoring and alerting for all homelab services and endpoints.
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📊 GitHub Stats
