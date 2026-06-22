@@ -69,9 +69,9 @@
 
 <table>
 <tr>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![NOC Dashboard](https://img.shields.io/badge/NOC%20Dashboard-39D353?style=for-the-badge&logoColor=white)](https://github.com/mdziegiel/noc-dashboard)
+### [<span style="color:#39D353">🔹 NOC Dashboard</span>](https://github.com/mdziegiel/noc-dashboard)
 
 Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
 
@@ -79,9 +79,9 @@ Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+
 
 </td>
 <td width="4%"></td>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![wikidocs](https://img.shields.io/badge/wikidocs-39D353?style=for-the-badge&logoColor=white)](https://github.com/mdziegiel/wikidocs)
+### [<span style="color:#39D353">🔹 wikidocs</span>](https://github.com/mdziegiel/wikidocs)
 
 Personal infrastructure wiki with automated nightly GitHub sync — living documentation for a 20+ host homelab.
 
@@ -94,9 +94,9 @@ Personal infrastructure wiki with automated nightly GitHub sync — living docum
 <br><br>
 <table>
 <tr>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![Cloudflare Zero Trust for Homelab](https://img.shields.io/badge/Cloudflare%20Zero%20Trust%20for%20Homelab-39D353?style=for-the-badge&logoColor=white)](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)
+### [<span style="color:#39D353">🔹 Cloudflare Zero Trust for Homelab</span>](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)
 
 Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies.
 
@@ -104,9 +104,9 @@ Securing self-hosted services without open ports using Cloudflare Tunnels and Ac
 
 </td>
 <td width="4%"></td>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![RustDesk Remote Access (Self-Hosted)](https://img.shields.io/badge/RustDesk%20Remote%20Access%20%28Self-Hosted%29-39D353?style=for-the-badge&logoColor=white)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)
+### [<span style="color:#39D353">🔹 RustDesk Remote Access (Self-Hosted)</span>](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)
 
 Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Docker.
 
@@ -119,9 +119,9 @@ Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Do
 <br><br>
 <table>
 <tr>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![AdGuard Home + Unbound Architecture](https://img.shields.io/badge/AdGuard%20Home%20%2B%20Unbound%20Architecture-39D353?style=for-the-badge&logoColor=white)](https://portfolio.mrdtech.me/projects/adguard-unbound.html)
+### [<span style="color:#39D353">🔹 AdGuard Home + Unbound Architecture</span>](https://portfolio.mrdtech.me/projects/adguard-unbound.html)
 
 Network-wide DNS filtering and recursive resolver stack with VLAN-aware configuration.
 
@@ -129,9 +129,9 @@ Network-wide DNS filtering and recursive resolver stack with VLAN-aware configur
 
 </td>
 <td width="4%"></td>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![UniFi VLAN Segmentation & Firewalls](https://img.shields.io/badge/UniFi%20VLAN%20Segmentation%20%26%20Firewalls-39D353?style=for-the-badge&logoColor=white)](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)
+### [<span style="color:#39D353">🔹 UniFi VLAN Segmentation & Firewalls</span>](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)
 
 Full network segmentation across IoT, trusted, guest, and management VLANs.
 
@@ -144,9 +144,9 @@ Full network segmentation across IoT, trusted, guest, and management VLANs.
 <br><br>
 <table>
 <tr>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![Proxmox NFS Storage & PBS Backups](https://img.shields.io/badge/Proxmox%20NFS%20Storage%20%26%20PBS%20Backups-39D353?style=for-the-badge&logoColor=white)](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)
+### [<span style="color:#39D353">🔹 Proxmox NFS Storage & PBS Backups</span>](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)
 
 Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backblaze B2.
 
@@ -154,9 +154,9 @@ Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backb
 
 </td>
 <td width="4%"></td>
-<td width="48%">
+<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
 
-[![Uptime Kuma Monitoring Stack](https://img.shields.io/badge/Uptime%20Kuma%20Monitoring%20Stack-39D353?style=for-the-badge&logoColor=white)](https://portfolio.mrdtech.me/projects/uptime-kuma.html)
+### [<span style="color:#39D353">🔹 Uptime Kuma Monitoring Stack</span>](https://portfolio.mrdtech.me/projects/uptime-kuma.html)
 
 Self-hosted monitoring and alerting for all homelab services and endpoints.
 
