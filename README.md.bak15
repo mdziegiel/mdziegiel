@@ -4,12 +4,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=0D1117&labelColor=000000" />
+  <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=00FF7F&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=AVAILABLE+FOR+CONSULTING&color=0D1117&style=flat-square" alt="Available for Consulting" />
-  <img src="https://img.shields.io/static/v1?label=&message=OPEN+TO+WORK&color=0D1117&style=flat-square" alt="Open to Work" />
+  <a href="https://mrdtech.me">
+    <img src="https://img.shields.io/badge/Available%20for%20Consulting-%2300FF7F?style=for-the-badge&logo=checkmarx&logoColor=black" />
+  </a>
+  <a href="mailto:techgeek@mrdtech.me">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-%2300FF7F?style=for-the-badge&logo=handshake&logoColor=black" />
+  </a>
 </p>
 
 💻 **Senior Network Administrator | Cloud, Security & Automation**  
@@ -66,8 +70,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=asset-overview&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/asset-overview) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=job-watch&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/job-watch)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=rustdesk-self-hosted&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/rustdesk-self-hosted) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=uptime-kuma-monitoring&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/uptime-kuma-monitoring)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=system-tools-suite&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/system-tools-suite) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=exam-prep&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/exam-prep)
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📊 GitHub Stats
