@@ -69,95 +69,71 @@
 
 <table>
 <tr>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 NOC Dashboard</span>](https://github.com/mdziegiel/noc-dashboard)
-
+### 🔹 [NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)
 Open-source NOC dashboard for homelabs, prosumers, and small businesses — 130+ integrations, drag-and-drop cards, custom card builder, reporting, multi-user auth with 2FA, dark terminal aesthetic. Docker-ready.
 
 <img src="https://img.shields.io/badge/FastAPI-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/React-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
-<td width="4%"></td>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 wikidocs</span>](https://github.com/mdziegiel/wikidocs)
-
+### 🔹 [wikidocs](https://github.com/mdziegiel/wikidocs)
 Personal infrastructure wiki with automated nightly GitHub sync — living documentation for a 20+ host homelab.
 
 <img src="https://img.shields.io/badge/Markdown-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub%20Actions-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 </tr>
-</table>
-
-<br><br>
-<table>
 <tr>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 Cloudflare Zero Trust for Homelab</span>](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)
-
+### 🔹 [Cloudflare Zero Trust for Homelab](https://portfolio.mrdtech.me/projects/cloudflare-zero-trust.html)
 Securing self-hosted services without open ports using Cloudflare Tunnels and Access policies.
 
 <img src="https://img.shields.io/badge/Cloudflare-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Zero%20Trust-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Tunnels-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
-<td width="4%"></td>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 RustDesk Remote Access (Self-Hosted)</span>](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)
-
+### 🔹 [RustDesk Remote Access (Self-Hosted)](https://portfolio.mrdtech.me/projects/rustdesk-guide.html)
 Replaced TeamViewer/AnyDesk with a fully self-hosted remote desktop server on Docker.
 
 <img src="https://img.shields.io/badge/RustDesk-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Remote%20Access-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 </tr>
-</table>
-
-<br><br>
-<table>
 <tr>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 AdGuard Home + Unbound Architecture</span>](https://portfolio.mrdtech.me/projects/adguard-unbound.html)
-
+### 🔹 [AdGuard Home + Unbound Architecture](https://portfolio.mrdtech.me/projects/adguard-unbound.html)
 Network-wide DNS filtering and recursive resolver stack with VLAN-aware configuration.
 
 <img src="https://img.shields.io/badge/AdGuard-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Unbound-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/DNS-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
-<td width="4%"></td>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 UniFi VLAN Segmentation & Firewalls</span>](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)
-
+### 🔹 [UniFi VLAN Segmentation & Firewalls](https://portfolio.mrdtech.me/projects/unifi-vlan-firewalls.html)
 Full network segmentation across IoT, trusted, guest, and management VLANs.
 
 <img src="https://img.shields.io/badge/UniFi-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/VLANs-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Firewall-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
 </tr>
-</table>
-
-<br><br>
-<table>
 <tr>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 Proxmox NFS Storage & PBS Backups</span>](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)
-
+### 🔹 [Proxmox NFS Storage & PBS Backups](https://portfolio.mrdtech.me/projects/proxmox-nfs-pbs.html)
 Multi-layer backup architecture using PBS, QNAP NFS, HBS3 replication, and Backblaze B2.
 
 <img src="https://img.shields.io/badge/Proxmox-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/PBS-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/NFS-%2300FF7F?style=flat-square&logoColor=black" />
 
 </td>
-<td width="4%"></td>
-<td width="48%" style="border:2px solid #39D353; border-radius:8px; padding:16px;">
+<td width="50%">
 
-### [<span style="color:#39D353">🔹 Uptime Kuma Monitoring Stack</span>](https://portfolio.mrdtech.me/projects/uptime-kuma.html)
-
+### 🔹 [Uptime Kuma Monitoring Stack](https://portfolio.mrdtech.me/projects/uptime-kuma.html)
 Self-hosted monitoring and alerting for all homelab services and endpoints.
 
 <img src="https://img.shields.io/badge/Uptime%20Kuma-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Monitoring-%2300FF7F?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Alerting-%2300FF7F?style=flat-square&logoColor=black" />
@@ -165,9 +141,6 @@ Self-hosted monitoring and alerting for all homelab services and endpoints.
 </td>
 </tr>
 </table>
-
-<br><br>
-
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
