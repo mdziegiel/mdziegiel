@@ -61,14 +61,19 @@
 
 ## 📂 Projects
 
-- **[noc-dashboard](https://github.com/mdziegiel/noc-dashboard)** — Self-hosted NOC dashboard for homelab infrastructure monitoring: Proxmox VMs, Docker containers, UPS status, backup coverage
-- **[adguard-unbound-stack](https://github.com/mdziegiel/adguard-unbound-stack)** — Redundant DNS filtering stack using AdGuard Home and Unbound with centralized sync
-- **[n8n-self-healing-infra](https://github.com/mdziegiel/n8n-self-healing-infra)** — n8n automation workflows for self-healing infrastructure, backup alerting, and SIEM event routing
-- **[job-watch](https://github.com/mdziegiel/job-watch)** — Automated job-search aggregator with AI match scoring and per-job alerting
-- **[rustdesk-self-hosted](https://github.com/mdziegiel/rustdesk-self-hosted)** — Self-hosted remote desktop (RustDesk) replacing TeamViewer/AnyDesk
-- **[uptime-kuma-monitoring](https://github.com/mdziegiel/uptime-kuma-monitoring)** — Self-hosted uptime monitoring and alerting stack for homelab services
-- **[system-tools-suite](https://github.com/mdziegiel/system-tools-suite)** — Sysadmin and security toolkit: network diagnostics, DevOps helpers, digital forensics
-- **[exam-prep](https://github.com/mdziegiel/exam-prep)** — AI-powered IT certification exam prep: spaced repetition, timed exams (MD-102, AZ-104, CompTIA)
+### 🏗️ Infrastructure & Monitoring
+- **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)** — Self-hosted Network Operations Center for homelab infrastructure: Proxmox VMs, Docker containers, UPS status, and backup coverage `FastAPI` `React` `Docker`
+- **[Uptime Kuma Monitoring](https://github.com/mdziegiel/uptime-kuma-monitoring)** — Uptime monitoring and alerting stack for all homelab services `Docker` `Cloudflare Tunnel`
+- **[AdGuard + Unbound Stack](https://github.com/mdziegiel/adguard-unbound-stack)** — Redundant network-wide DNS filtering with recursive resolution and centralized sync `DNS` `Docker`
+
+### ⚙️ Automation & Self-Healing
+- **[n8n Self-Healing Infrastructure](https://github.com/mdziegiel/n8n-self-healing-infra)** — Automated VM/container recovery, backup-failure alerting, and SIEM event routing to Telegram `n8n` `Proxmox` `CrowdSec`
+- **[Job Watch](https://github.com/mdziegiel/job-watch)** — Job-search aggregator with AI match scoring and per-listing alerting `Python` `RapidAPI` `Telegram`
+
+### 🛠️ Tools & Remote Access
+- **[System Tools Suite](https://github.com/mdziegiel/system-tools-suite)** — Sysadmin and security toolkit: network diagnostics, DevOps helpers, digital forensics `Docker`
+- **[RustDesk Self-Hosted](https://github.com/mdziegiel/rustdesk-self-hosted)** — Fully self-hosted remote desktop replacing TeamViewer/AnyDesk `Docker` `Linode`
+- **[Exam Prep](https://github.com/mdziegiel/exam-prep)** — AI-powered IT certification prep with spaced repetition and timed exams (MD-102, AZ-104, CompTIA) `Python` `AI`
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📊 GitHub Stats
