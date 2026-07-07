@@ -61,13 +61,14 @@
 
 ## 📂 Projects
 
-<a href="https://github.com/mdziegiel/noc-dashboard"><img src="https://opengraph.githubassets.com/1/mdziegiel/noc-dashboard" width="420" alt="noc-dashboard"/></a> <a href="https://github.com/mdziegiel/adguard-unbound-stack"><img src="https://opengraph.githubassets.com/1/mdziegiel/adguard-unbound-stack" width="420" alt="adguard-unbound-stack"/></a>
-
-<a href="https://github.com/mdziegiel/n8n-self-healing-infra"><img src="https://opengraph.githubassets.com/1/mdziegiel/n8n-self-healing-infra" width="420" alt="n8n-self-healing-infra"/></a> <a href="https://github.com/mdziegiel/job-watch"><img src="https://opengraph.githubassets.com/1/mdziegiel/job-watch" width="420" alt="job-watch"/></a>
-
-<a href="https://github.com/mdziegiel/rustdesk-self-hosted"><img src="https://opengraph.githubassets.com/1/mdziegiel/rustdesk-self-hosted" width="420" alt="rustdesk-self-hosted"/></a> <a href="https://github.com/mdziegiel/uptime-kuma-monitoring"><img src="https://opengraph.githubassets.com/1/mdziegiel/uptime-kuma-monitoring" width="420" alt="uptime-kuma-monitoring"/></a>
-
-<a href="https://github.com/mdziegiel/system-tools-suite"><img src="https://opengraph.githubassets.com/1/mdziegiel/system-tools-suite" width="420" alt="system-tools-suite"/></a> <a href="https://github.com/mdziegiel/exam-prep"><img src="https://opengraph.githubassets.com/1/mdziegiel/exam-prep" width="420" alt="exam-prep"/></a>
+- **[noc-dashboard](https://github.com/mdziegiel/noc-dashboard)** — Self-hosted NOC dashboard for homelab infrastructure monitoring: Proxmox VMs, Docker containers, UPS status, backup coverage
+- **[adguard-unbound-stack](https://github.com/mdziegiel/adguard-unbound-stack)** — Redundant DNS filtering stack using AdGuard Home and Unbound with centralized sync
+- **[n8n-self-healing-infra](https://github.com/mdziegiel/n8n-self-healing-infra)** — n8n automation workflows for self-healing infrastructure, backup alerting, and SIEM event routing
+- **[job-watch](https://github.com/mdziegiel/job-watch)** — Automated job-search aggregator with AI match scoring and per-job alerting
+- **[rustdesk-self-hosted](https://github.com/mdziegiel/rustdesk-self-hosted)** — Self-hosted remote desktop (RustDesk) replacing TeamViewer/AnyDesk
+- **[uptime-kuma-monitoring](https://github.com/mdziegiel/uptime-kuma-monitoring)** — Self-hosted uptime monitoring and alerting stack for homelab services
+- **[system-tools-suite](https://github.com/mdziegiel/system-tools-suite)** — Sysadmin and security toolkit: network diagnostics, DevOps helpers, digital forensics
+- **[exam-prep](https://github.com/mdziegiel/exam-prep)** — AI-powered IT certification exam prep: spaced repetition, timed exams (MD-102, AZ-104, CompTIA)
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📊 GitHub Stats
