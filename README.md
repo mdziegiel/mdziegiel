@@ -61,13 +61,13 @@
 
 ## 📂 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=noc-dashboard&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/noc-dashboard) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=adguard-unbound-stack&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/adguard-unbound-stack)
+<a href="https://github.com/mdziegiel/noc-dashboard"><img src="https://opengraph.githubassets.com/1/mdziegiel/noc-dashboard" width="420" alt="noc-dashboard"/></a> <a href="https://github.com/mdziegiel/adguard-unbound-stack"><img src="https://opengraph.githubassets.com/1/mdziegiel/adguard-unbound-stack" width="420" alt="adguard-unbound-stack"/></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=n8n-self-healing-infra&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/n8n-self-healing-infra) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=job-watch&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/job-watch)
+<a href="https://github.com/mdziegiel/n8n-self-healing-infra"><img src="https://opengraph.githubassets.com/1/mdziegiel/n8n-self-healing-infra" width="420" alt="n8n-self-healing-infra"/></a> <a href="https://github.com/mdziegiel/job-watch"><img src="https://opengraph.githubassets.com/1/mdziegiel/job-watch" width="420" alt="job-watch"/></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=rustdesk-self-hosted&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/rustdesk-self-hosted) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=uptime-kuma-monitoring&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/uptime-kuma-monitoring)
+<a href="https://github.com/mdziegiel/rustdesk-self-hosted"><img src="https://opengraph.githubassets.com/1/mdziegiel/rustdesk-self-hosted" width="420" alt="rustdesk-self-hosted"/></a> <a href="https://github.com/mdziegiel/uptime-kuma-monitoring"><img src="https://opengraph.githubassets.com/1/mdziegiel/uptime-kuma-monitoring" width="420" alt="uptime-kuma-monitoring"/></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=system-tools-suite&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/system-tools-suite) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdziegiel&repo=exam-prep&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&border_color=39D353)](https://github.com/mdziegiel/exam-prep)
+<a href="https://github.com/mdziegiel/system-tools-suite"><img src="https://opengraph.githubassets.com/1/mdziegiel/system-tools-suite" width="420" alt="system-tools-suite"/></a> <a href="https://github.com/mdziegiel/exam-prep"><img src="https://opengraph.githubassets.com/1/mdziegiel/exam-prep" width="420" alt="exam-prep"/></a>
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📊 GitHub Stats
