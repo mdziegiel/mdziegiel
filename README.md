@@ -63,11 +63,15 @@
 
 ### 🏗️ Infrastructure & Monitoring
 - **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)** — Self-hosted Network Operations Center for homelab infrastructure: Proxmox VMs, Docker containers, UPS status, and backup coverage `FastAPI` `React` `Docker`
+- **[Prometheus + Grafana Alerting (n8n)](https://github.com/mdziegiel/prometheus-n8n-alerting)** — Self-hosted homelab observability — Prometheus + Grafana + node_exporter + cAdvisor across multiple Docker hosts, with alerting via n8n polling the Prometheus API into Telegram (no Alertmanager required) `Prometheus` `Grafana` `n8n`
+- **[SIEM + CrowdSec Detection](https://github.com/mdziegiel/siem-crowdsec-detection)** — Wazuh SIEM custom detection rules and CrowdSec bouncer configs across a multi-host homelab, with OpenCanary honeypot integration `Wazuh` `CrowdSec` `Security`
 - **[Uptime Kuma Monitoring](https://github.com/mdziegiel/uptime-kuma-monitoring)** — Uptime monitoring and alerting stack for all homelab services `Docker` `Cloudflare Tunnel`
 - **[AdGuard + Unbound Stack](https://github.com/mdziegiel/adguard-unbound-stack)** — Redundant network-wide DNS filtering with recursive resolution and centralized sync `DNS` `Docker`
 
 ### ⚙️ Automation & Self-Healing
 - **[n8n Self-Healing Infrastructure](https://github.com/mdziegiel/n8n-self-healing-infra)** — Automated VM/container recovery, backup-failure alerting, and SIEM event routing to Telegram `n8n` `Proxmox` `CrowdSec`
+- **[Multi-Server MCP Gateway](https://github.com/mdziegiel/mrdtech-mcp-gateway)** — Hardened, read-only MCP gateway exposing Portainer, GitHub, Filesystem, Proxmox, PBS, and Vault RAG visibility to an AI agent — loopback-only, SSH-tunneled, zero client-side credentials `MCP` `Docker` `Security` `Python`
+- **[Vault RAG Pipeline](https://github.com/mdziegiel/vault-rag-pipeline)** — Self-hosted RAG pipeline for an AI homelab agent — semantic search over an Obsidian vault with automated secrets/IP redaction before embedding, Qdrant + Ollama (nomic-embed-text) + gitleaks `Qdrant` `Ollama` `RAG` `Python`
 - **[Job Watch](https://github.com/mdziegiel/job-watch)** — Job-search aggregator with AI match scoring and per-listing alerting `Python` `RapidAPI` `Telegram`
 
 ### 🛠️ Tools & Remote Access
