@@ -73,6 +73,7 @@
 - **[Multi-Server MCP Gateway](https://github.com/mdziegiel/mrdtech-mcp-gateway)** — Hardened, read-only MCP gateway exposing Portainer, GitHub, Filesystem, Proxmox, PBS, and Vault RAG visibility to an AI agent — loopback-only, SSH-tunneled, zero client-side credentials `MCP` `Docker` `Security` `Python`
 - **[n8n Self-Healing Infrastructure](https://github.com/mdziegiel/n8n-self-healing-infra)** — Automated VM/container recovery, backup-failure alerting, and SIEM event routing to Telegram `n8n` `Proxmox` `CrowdSec`
 - **[Job Watch](https://github.com/mdziegiel/job-watch)** — Job-search aggregator with AI match scoring and per-listing alerting `Python` `RapidAPI` `Telegram`
+- **[Obsidian Vault Setup](https://github.com/mdziegiel/obsidian-vault-setup)** — Personal knowledge base built on Obsidian, structured as long-term memory for a self-hosted AI agent — RAG-indexed, auto-logged, secrets-redacted before embedding `Obsidian` `Knowledge Base`
 
 ### 🛠️ Tools & Remote Access
 - **[System Tools Suite](https://github.com/mdziegiel/system-tools-suite)** — Sysadmin and security toolkit: network diagnostics, DevOps helpers, digital forensics `Docker`
