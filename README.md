@@ -21,7 +21,8 @@
 - 20+ years managing and securing hybrid infrastructure with a focus on Cloud, Security & Automation  
 - Expertise in Network Management, Virtualization, and Endpoint Engineering  
 - Building scalable, secure, repeatable solutions across enterprise + homelab  
-- Automating everything with PowerShell, Graph API, GitHub Actions  
+- Automating infrastructure and workflows with PowerShell, Microsoft Graph, GitHub Actions, and n8n  
+- Building intelligent automation using AI Agents, MCP Servers, RAG, and Hermes  
 - Always experimenting with Zero Trust, monitoring, and self-hosted platforms  
 - Running a fully self-hosted personal infrastructure stack on my own hardware  
 - Available for remote, consulting, freelance, and contract IT opportunities  
