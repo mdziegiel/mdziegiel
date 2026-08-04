@@ -24,7 +24,7 @@
 - Automating infrastructure and workflows with PowerShell, Microsoft Graph, GitHub Actions, and n8n  
 - Building intelligent automation using AI Agents, MCP Servers, RAG, and Hermes  
 - Always experimenting with Zero Trust, monitoring, and self-hosted platforms  
-- Running a fully self-hosted personal infrastructure stack on my own hardware  
+- Running hybrid self-hosted and cloud infrastructure across on-premises and cloud platforms  
 - Available for remote, consulting, freelance, and contract IT opportunities  
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
