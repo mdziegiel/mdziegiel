@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 - 20+ years managing and securing **hybrid infrastructure** (on-prem AD + Entra ID + Intune)  
-- Deep experience in **network engineering, virtualization, and endpoint management**  
+- Expertise in Network Management, Virtualization and Endpoint Engineering  
 - Building scalable, secure, repeatable solutions across enterprise + homelab  
 - Automating everything with **PowerShell, Graph API, GitHub Actions**  
 - Always experimenting with **Zero Trust, monitoring, and self-hosted platforms**  
