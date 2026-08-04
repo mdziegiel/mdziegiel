@@ -18,13 +18,13 @@
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 👨‍💻 About Me
-- 20+ years managing and securing **hybrid infrastructure** (on-prem AD + Entra ID + Intune)  
-- Expertise in Network Management, Virtualization and Endpoint Engineering  
+- 20+ years managing and securing hybrid infrastructure with a focus on Cloud, Security & Automation  
+- Expertise in Network Management, Virtualization, and Endpoint Engineering  
 - Building scalable, secure, repeatable solutions across enterprise + homelab  
-- Automating everything with **PowerShell, Graph API, GitHub Actions**  
-- Always experimenting with **Zero Trust, monitoring, and self-hosted platforms**  
+- Automating everything with PowerShell, Graph API, GitHub Actions  
+- Always experimenting with Zero Trust, monitoring, and self-hosted platforms  
 - Running a fully self-hosted personal infrastructure stack on my own hardware  
-- Available for **consulting, freelance, and contract IT work** across northern MA & southern NH 
+- Available for remote, consulting, freelance, and contract IT opportunities  
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
