@@ -3,7 +3,6 @@
 ---
 
 <p align="center">
-  <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=2fbd4e&labelColor=000000" alt="Profile Views"/>
   <a href="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg"><img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg" alt="Available for Consulting"/></a>
   <a href="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg"><img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg" alt="Open to Work"/></a>
 </p>
@@ -24,11 +23,11 @@
 
 ## 🧰 Tech & Tools I Use
 
-**Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · OPNsense · Proxmox Backup Server · Veeam · Backblaze B2  
+**Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · OPNsense · Proxmox Backup Server · Veeam · Backblaze B2 · Meraki · Cisco  
 **OS:** Windows Server · Ubuntu Server · Debian · Linux  
 **Containers:** Docker · Compose · Portainer  
 **Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID  
-**Automation:** PowerShell · Graph API · GitHub/GitLab CI · Power Automate  
+**Automation:** PowerShell · Graph API · GitHub/GitLab CI · n8n · AI Agents · MCP · RAG  
 **Networking:** VLAN Design · WireGuard/Tailscale · Nginx Reverse Proxy/WAF · Cloudflare Tunnels · Fing  
 **Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Pi.Alert · LinkStack · Seafile · UrBackup · Seerr · Bitwarden  
 **Security:** Wazuh · Cloudflare Zero Trust · UniFi IDS/IPS · pfSense Firewall · T-Pot  
@@ -55,14 +54,14 @@
 
 ## 📂 Projects
 
-### Homelab & Infrastructure
+### 🏠 Homelab & Infrastructure
 - **[NOC Dashboard](https://github.com/mdziegiel/noc-dashboard)** — Self-hosted Network Operations Center for homelab infrastructure: Proxmox VMs, Docker containers, UPS status, and backup coverage `FastAPI` `React` `Docker`
 - **[SIEM + CrowdSec Detection](https://github.com/mdziegiel/siem-crowdsec-detection)** — Wazuh SIEM custom detection rules and CrowdSec bouncer configs across a multi-host homelab, with OpenCanary honeypot integration `Wazuh` `CrowdSec` `Security`
 - **[Prometheus + Grafana Alerting (n8n)](https://github.com/mdziegiel/prometheus-n8n-alerting)** — Self-hosted homelab observability — Prometheus + Grafana + node_exporter + cAdvisor across multiple Docker hosts, with alerting via n8n polling the Prometheus API into Telegram (no Alertmanager required) `Prometheus` `Grafana` `n8n`
 - **[Uptime Kuma Monitoring](https://github.com/mdziegiel/uptime-kuma-monitoring)** — Uptime monitoring and alerting stack for all homelab services `Docker` `Cloudflare Tunnel`
 - **[AdGuard + Unbound Stack](https://github.com/mdziegiel/adguard-unbound-stack)** — Redundant network-wide DNS filtering with recursive resolution and centralized sync `DNS` `Docker`
 
-### AI, Automation & Integrations
+### 🤖 AI, Automation & Integrations
 - **[Vault RAG Pipeline](https://github.com/mdziegiel/vault-rag-pipeline)** — Self-hosted RAG pipeline for an AI homelab agent — semantic search over an Obsidian vault with automated secrets/IP redaction before embedding, Qdrant + Ollama (nomic-embed-text) + gitleaks `Qdrant` `Ollama` `RAG` `Python`
 - **[Multi-Server MCP Gateway](https://github.com/mdziegiel/mrdtech-mcp-gateway)** — Hardened, read-only MCP gateway exposing Portainer, GitHub, Filesystem, Proxmox, PBS, and Vault RAG visibility to an AI agent — loopback-only, SSH-tunneled, zero client-side credentials `MCP` `Docker` `Security` `Python`
 - **[n8n Self-Healing Infrastructure](https://github.com/mdziegiel/n8n-self-healing-infra)** — Automated VM/container recovery, backup-failure alerting, and SIEM event routing to Telegram `n8n` `Proxmox` `CrowdSec`
@@ -89,6 +88,8 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/michaeldziegiel  
 - 🖥️ **Website:** https://mrdtech.me  
 - 📧 **Email:** techgeek@mrdtech.me  
+
+<sub>👁️ Profile views: <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=&color=14181a&labelColor=14181a" alt="views" height="14"/></sub>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
