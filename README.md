@@ -2,9 +2,11 @@
 
 ---
 
-![Profile Views](https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=0D1117&labelColor=000000)
-
-[![Available for Consulting](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg)](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg) [![Open to Work](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg)](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg)
+<p align="center">
+  <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=2fbd4e&labelColor=000000" alt="Profile Views"/>
+  <a href="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg"><img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg" alt="Available for Consulting"/></a>
+  <a href="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg"><img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg" alt="Open to Work"/></a>
+</p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
