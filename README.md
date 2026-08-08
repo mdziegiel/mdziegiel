@@ -89,7 +89,7 @@
 - 🖥️ **Website:** https://mrdtech.me  
 - 📧 **Email:** techgeek@mrdtech.me  
 
-- 👁️ **Profile Views:** <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=%20&color=1c2126&labelColor=1c2126" alt="views" height="18" style="vertical-align:middle"/>  
+- <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=1c2126&labelColor=1c2126" alt="Profile Views"/>  
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
