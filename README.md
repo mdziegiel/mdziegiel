@@ -27,9 +27,9 @@
 **OS:** Windows Server · Ubuntu Server · Debian · Linux  
 **Containers:** Docker · Compose · Portainer  
 **Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID  
-**Automation:** PowerShell · Graph API · GitHub/GitLab CI · n8n · AI Agents · MCP · RAG  
+**Automation:** PowerShell · Graph API · GitHub/GitLab CI · n8n · AI Agents · MCP · RAG · Grafana · Prometheus  
 **Networking:** VLAN Design · WireGuard/Tailscale · Nginx Reverse Proxy/WAF · Cloudflare Tunnels · Fing  
-**Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Pi.Alert · LinkStack · Seafile · UrBackup · Seerr · Bitwarden  
+**Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Plex · LinkStack · Seafile · UrBackup · WikiDocs · Bitwarden  
 **Security:** Wazuh · Cloudflare Zero Trust · UniFi IDS/IPS · pfSense Firewall · T-Pot  
 **Enterprise:** ConnectWise · ScreenConnect · Auvik · Sophos · Proofpoint · Microsoft Defender · Cisco Umbrella · KnowBe4 · Meraki  
 
@@ -89,9 +89,7 @@
 - 🖥️ **Website:** https://mrdtech.me  
 - 📧 **Email:** techgeek@mrdtech.me  
 
-<p align="center">
-  <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=2fbd4e&labelColor=000000" alt="Profile Views"/>
-</p>
+- 👁️ **Profile Views:** <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=&color=2fbd4e&labelColor=000000" alt="views" height="20"/>  
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
