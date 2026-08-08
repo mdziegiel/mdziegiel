@@ -23,7 +23,7 @@
 
 ## 🧰 Tech & Tools I Use
 
-**Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · OPNsense · Proxmox Backup Server · Veeam · Backblaze B2 · Meraki · Cisco  
+**Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · OPNsense · Proxmox Backup Server · Veeam · Backblaze B2  
 **OS:** Windows Server · Ubuntu Server · Debian · Linux  
 **Containers:** Docker · Compose · Portainer  
 **Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID  
@@ -89,7 +89,7 @@
 - 🖥️ **Website:** https://mrdtech.me  
 - 📧 **Email:** techgeek@mrdtech.me  
 
-- 👁️ **Profile Views:** <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=&color=2fbd4e&labelColor=000000" alt="views" height="20"/>  
+- 👁️ **Profile Views:** <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=%20&color=2fbd4e&labelColor=2fbd4e" alt="views" height="20"/>  
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
