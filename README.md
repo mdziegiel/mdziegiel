@@ -1,19 +1,10 @@
-<h1 align="center" style="font-size: 2.4rem;">
-  Hi, I'm Michael Dziegiel 
-  👋
-</h1>
+![MRDTECH](mrdtech-github-banner.png)
 
-<p align="center">
-  <img src="https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=0D1117&labelColor=000000" />
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg" alt="Available for Consulting" />
-  <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg" alt="Open to Work" />
-</p>
+![Profile Views](https://hits.sh/github.com/mdziegiel.svg?style=flat&label=Profile+Views&color=0D1117&labelColor=000000)
 
-💻 **Senior Network & Systems Administrator | Cloud, Security & Automation**  
-🌐 Merrimack Valley, MA • 20+ years in IT • Homelab + Hybrid Infrastructure Engineer  
+[![Available for Consulting](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg)](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg) [![Open to Work](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg)](https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg)
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
