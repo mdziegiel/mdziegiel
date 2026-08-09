@@ -1,11 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF6A&height=110&section=header" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/michaeldziegiel">
-    <img src="https://cardivo.vercel.app/api?name=Michael%20Dziegiel&description=Part%20enterprise%20IT%2C%20part%20home%20lab%20mad%20scientist%20%E2%80%94%20powered%20by%20automation%20scripts%20and%20unapologetic%20nerd%20energy.&image=https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/mrdtech_logo_black_512.png&backgroundColor=%23000000&fontColor=%2339ff6a&iconColor=%2339ff6a&colorPattern=%2339ff6a&linkedin=michaeldziegiel&site=mrdtech.me" />
-  </a>
 </p>
 <h1 align="center">Hi, I'm Michael Dziegiel 👋</h1>
 
