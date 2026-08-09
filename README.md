@@ -1,13 +1,21 @@
-![MRDTECH](mrdtech-github-banner.png)
-
----
-
 <p align="center">
-  <a href="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg"><img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg" alt="Available for Consulting"/></a>
-  <a href="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg"><img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg" alt="Open to Work"/></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" />
 </p>
 
-<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
+<h1 align="center">Hi, I'm Michael Dziegiel 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39FF6A&center=true&vCenter=true&width=600&lines=Senior+Network+%26+Systems+Administrator;Cloud%2C+Security+%26+Automation;Homelab+%2B+Hybrid+Infrastructure+Engineer;20%2B+Years+in+IT" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/consulting.svg" alt="Available for Consulting" />
+  <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg" alt="Open to Work" />
+</p>
+
+🌐 Merrimack Valley, MA
 
 ## 👨‍💻 About Me
 - 20+ years managing and securing hybrid infrastructure with a focus on Cloud, Security & Automation  
