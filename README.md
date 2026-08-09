@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF6A&height=110&section=header" />
 </p>
 
 <h1 align="center">Hi, I'm Michael Dziegiel 👋</h1>
