@@ -2,9 +2,8 @@
 <h1 align="center">Hi, I'm Michael Dziegiel 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39FF6A&center=true&vCenter=true&width=600&lines=Senior+Network+%26+Systems+Administrator;Cloud%2C+Security+%26+Automation;Homelab+%2B+Hybrid+Infrastructure+Engineer;20%2B+Years+in+IT" />
-  </a>
+  <strong>Senior Network & Systems Administrator | Cloud, Security & Automation</strong><br/>
+  Merrimack Valley, MA • 20+ Years in IT • Homelab + Hybrid Infrastructure Engineer
 </p>
 
 <p align="center">
