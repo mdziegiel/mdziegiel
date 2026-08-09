@@ -6,8 +6,8 @@
   <img src="https://cardivo.vercel.app/api?name=Michael%20Dziegiel&description=Part%20enterprise%20IT%2C%20part%20home%20lab%20mad%20scientist%20%E2%80%94%20powered%20by%20automation%20scripts%20and%20unapologetic%20nerd%20energy.&image=https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/mrdtech_logo_black_512.png&backgroundColor=%23000000&fontColor=%2339ff6a&iconColor=%2339ff6a&colorPattern=%2339ff6a&linkedin=michaeldziegiel&site=mrdtech.me" />
 </p>
 
-<p align="center">
-  <a href="https://portfolio.mrdtech.me">portfolio.mrdtech.me</a>
+<p align="center" style="margin-top: -10px;">
+  <a href="https://portfolio.mrdtech.me" style="color: #39ff6a; text-decoration: none; font-family: monospace; font-size: 14px;">portfolio.mrdtech.me</a>
 </p>
 
 <h1 align="center">Hi, I'm Michael Dziegiel 👋</h1>
