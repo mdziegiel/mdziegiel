@@ -15,6 +15,10 @@
   <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg" alt="Open to Work" />
 </p>
 
+<p align="center">
+  <img src="https://cardivo.vercel.app/api?name=Michael%20Dziegiel&description=Part%20enterprise%20IT%2C%20part%20home%20lab%20mad%20scientist%20%E2%80%94%20powered%20by%20automation%20scripts%20and%20unapologetic%20nerd%20energy.&image=https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/mrdtech_logo_black_512.png&backgroundColor=%23000000&fontColor=%2339ff6a&iconColor=%2339ff6a&colorPattern=%2339ff6a&github=mdziegiel&linkedin=mdziegiel&site=mrdtech.me" />
+</p>
+
 
 ## 👨‍💻 About Me
 - 20+ years managing and securing hybrid infrastructure with a focus on Cloud, Security & Automation  
