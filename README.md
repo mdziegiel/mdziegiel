@@ -15,7 +15,6 @@
   <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/badges/work.svg" alt="Open to Work" />
 </p>
 
-🌐 Merrimack Valley, MA
 
 ## 👨‍💻 About Me
 - 20+ years managing and securing hybrid infrastructure with a focus on Cloud, Security & Automation  
