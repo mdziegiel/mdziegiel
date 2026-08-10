@@ -26,14 +26,14 @@
 
 ## 🧰 Tech & Tools I Use
 
-**Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · OPNsense · Proxmox Backup Server · Veeam · Backblaze B2  
+**Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · Proxmox Backup Server · Backblaze B2  
 **OS:** Windows Server · Ubuntu Server · Debian · Linux  
 **Containers:** Docker · Compose · Portainer  
 **Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID  
 **Automation:** PowerShell · Graph API · GitHub/GitLab CI · n8n · AI Agents · MCP · RAG · Grafana · Prometheus  
 **Networking:** VLAN Design · WireGuard/Tailscale · Nginx Reverse Proxy/WAF · Cloudflare Tunnels · Fing  
 **Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Plex · LinkStack · Seafile · UrBackup · WikiDocs · Bitwarden  
-**Security:** Wazuh · Cloudflare Zero Trust · UniFi IDS/IPS · pfSense Firewall · T-Pot  
+**Security:** Wazuh · CrowdSec · LimaCharlie · Cloudflare Zero Trust · UniFi IDS/IPS · pfSense Firewall  
 **Enterprise:** ConnectWise · ScreenConnect · Auvik · Sophos · Proofpoint · Microsoft Defender · Cisco Umbrella · KnowBe4 · Meraki  
 
 <p align="left">
