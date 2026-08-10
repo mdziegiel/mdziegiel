@@ -29,7 +29,7 @@
 **Infrastructure:** Proxmox · QNAP · Hyper-V · UniFi · pfSense · Proxmox Backup Server · Veeam · Backblaze B2  
 **OS:** Windows Server · Ubuntu Server · Debian · Linux  
 **Containers:** Docker · Compose · Portainer  
-**Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID  
+**Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID · Exchange Online · Teams · SharePoint  
 **Automation:** PowerShell · Graph API · GitHub/GitLab CI · n8n · AI Agents · MCP · RAG · Grafana · Prometheus  
 **Networking:** VLAN Design · WireGuard/Tailscale · Nginx Reverse Proxy/WAF · Cloudflare Tunnels · Fing  
 **Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Plex · LinkStack · Seafile · UrBackup · WikiDocs · Bitwarden  
