@@ -12,7 +12,7 @@
 </p>
 
 
-## Whoami
+## 👨‍💻 Whoami
 - 20+ years managing and securing hybrid infrastructure with a focus on Cloud, Security & Automation  
 - Expertise in Network Management, Virtualization, and Endpoint Engineering  
 - Building scalable, secure, repeatable solutions across enterprise + homelab  
