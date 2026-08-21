@@ -12,7 +12,7 @@
 </p>
 
 
-## 👨‍💻 About Me
+## Whoami
 - 20+ years managing and securing hybrid infrastructure with a focus on Cloud, Security & Automation  
 - Expertise in Network Management, Virtualization, and Endpoint Engineering  
 - Building scalable, secure, repeatable solutions across enterprise + homelab  
@@ -21,6 +21,12 @@
 - Always experimenting with Zero Trust, monitoring, and self-hosted platforms  
 - Running hybrid self-hosted and cloud infrastructure across on-premises and cloud platforms  
 - Available for remote, consulting, freelance, and contract IT opportunities  
+
+<p align="center">
+  <a href="https://venmo.com/Michael-Dziegiel" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
