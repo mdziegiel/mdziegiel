@@ -60,8 +60,8 @@
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdsec.svg" height="40"/>
   <img src="./assets/hermes-icon.svg" height="40"/>
-  <img src="./assets/veeam-icon.svg" height="40"/>
-  <img src="./assets/wireguard-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/assets/veeam-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/mdziegiel/mdziegiel/main/assets/wireguard-icon.svg" height="40"/>
 </p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
