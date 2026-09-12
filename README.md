@@ -59,7 +59,8 @@
   <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdsec.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/wazuh-dark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/wazuh-dark.svg?v=2" height="40"/>
+  <img src="./assets/hermes-icon.svg" height="40"/>
 </p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
