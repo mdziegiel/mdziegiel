@@ -62,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Microsoft Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
-  <img src="./assets/wireguard-icon.svg" height="40"/>
 </p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
