@@ -57,6 +57,9 @@
   <img src="https://cdn.simpleicons.org/ubiquiti/0598D6" height="40"/>
   <img src="https://cdn.simpleicons.org/portainer/13BEF9" height="40"/>
   <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdsec.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/wazuh.svg" height="40"/>
 </p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
