@@ -44,7 +44,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40"/>
   <img src="https://cdn.simpleicons.org/tailscale/ffffff" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/>
@@ -59,7 +59,7 @@
   <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdsec.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/wazuh.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/wazuh-dark.svg" height="40"/>
 </p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
