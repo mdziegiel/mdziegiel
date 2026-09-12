@@ -62,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Microsoft Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
-  <img src="./assets/hermes-icon.svg" height="40"/>
-  <img src="./assets/veeam-icon.svg" height="40"/>
   <img src="./assets/wireguard-icon.svg" height="40"/>
 </p>
 
