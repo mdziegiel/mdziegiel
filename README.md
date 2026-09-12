@@ -60,7 +60,6 @@
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdsec.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Microsoft Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg" height="40" alt="VMware vSphere"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
   <img src="./assets/hermes-icon.svg" height="40"/>
