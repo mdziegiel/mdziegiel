@@ -83,7 +83,6 @@
 - **[Obsidian Vault Setup](https://github.com/mdziegiel/obsidian-vault-setup)** — Personal knowledge base built on Obsidian, structured as long-term memory for a self-hosted AI agent — RAG-indexed, auto-logged, secrets-redacted before embedding `Obsidian` `Knowledge Base`
 
 ### 🛠️ Tools & Remote Access
-- **[System Tools Suite](https://github.com/mdziegiel/system-tools-suite)** — Sysadmin and security toolkit: network diagnostics, DevOps helpers, digital forensics `Docker`
 - **[RustDesk Self-Hosted](https://github.com/mdziegiel/rustdesk-self-hosted)** — Fully self-hosted remote desktop replacing TeamViewer/AnyDesk `Docker` `Linode`
 - **[Exam Prep](https://github.com/mdziegiel/exam-prep)** — AI-powered IT certification prep with spaced repetition and timed exams (MD-102, AZ-104, CompTIA) `Python` `AI`
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
