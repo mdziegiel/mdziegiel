@@ -84,7 +84,6 @@
 
 ### 🛠️ Tools & Remote Access
 - **[RustDesk Self-Hosted](https://github.com/mdziegiel/rustdesk-self-hosted)** — Fully self-hosted remote desktop replacing TeamViewer/AnyDesk `Docker` `Linode`
-- **[Exam Prep](https://github.com/mdziegiel/exam-prep)** — AI-powered IT certification prep with spaced repetition and timed exams (MD-102, AZ-104, CompTIA) `Python` `AI`
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 📊 GitHub Stats
